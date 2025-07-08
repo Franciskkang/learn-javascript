@@ -33,3 +33,9 @@ if (score >= 90) {
 //console.log("점수는", score, "점입니다");
 //백틱으로
 console.log(`score is ${score}.`);
+
+if (0) {
+  console.log("0입");
+} else {
+  console.log("0아님");
+}
