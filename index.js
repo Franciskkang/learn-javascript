@@ -87,5 +87,3 @@ console.log("🚀 ~ sum:", sum);
 
 sum * 2;
 console.log("🚀 ~ sum:", sum);
-
-//toUppercase 매소드 영문이름을 대문자로 반환, 이름은 param 받기
